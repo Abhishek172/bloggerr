@@ -34,7 +34,7 @@ Method overriding, in object-oriented programming, is a language feature that al
 Mongoose is an Object Data Modeling (ODM) library that is used for schema validations and managing relationships among data. Mongoose is frequently used with NodeJS and MongoDB.
 
 
-##Getting Started
+## Getting Started
 
 Run the project from command line
 <li>run `mongod` in command line</li>
