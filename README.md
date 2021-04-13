@@ -11,7 +11,7 @@
 <li>Back-end Technologies - Node.js, Express.js</li>
 <li>Database - mongoDB</li>
 
-Download GitBash (optional), MongoDB, nodejs
+<br>Download GitBash (optional), MongoDB, nodejs
 
 ***Packages Required :***
 
