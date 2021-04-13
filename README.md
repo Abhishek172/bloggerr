@@ -7,9 +7,9 @@
 
 ## Technologies used
 
-Front-end Technologies - HTML, CSS, Semantic-UI
-Back-end Technologies - Node.js, Express.js
-Database - mongoDB
+<li>Front-end Technologies - HTML, CSS, Semantic-UI</li>
+<li>Back-end Technologies - Node.js, Express.js</li>
+<li>Database - mongoDB</li>
 
 Download GitBash (optional), MongoDB, nodejs
 
