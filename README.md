@@ -1,9 +1,9 @@
 # bloggerr
 
-Made using the RESTful Routes 
-This blog app follow RESTful routing concept for CRUD(Create, Read, Update and Delete)
-This is the v1
-For further version, working on adding login authentication as well as comments to post below the blog
+<br>Made using the RESTful Routes 
+<br>This blog app follow RESTful routing concept for CRUD(Create, Read, Update and Delete)
+<br>This is the v1
+<br>For further version, working on adding login authentication as well as comments to post below the blog
 
 ## Technologies used
 
