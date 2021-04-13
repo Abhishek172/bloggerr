@@ -37,7 +37,7 @@ Mongoose is an Object Data Modeling (ODM) library that is used for schema valida
 ##Getting Started
 
 Run the project from command line
-run `mongod` in command line
-cd to project directory
-node app.js
+<p>run `mongod` in command line</p>
+<p>cd to project directory</p>
+<p>node app.js</p>
 Open http://localhost:3000 to view it in the browser.
