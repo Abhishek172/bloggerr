@@ -41,5 +41,5 @@ Run the project from command line
 <br>cd to project directory
 <br>node app.js
 </pre>
-<br>Open http://localhost:3000 to view it in the browser.
+<br>Open https://localhost:3000 to view it in the browser.
 
