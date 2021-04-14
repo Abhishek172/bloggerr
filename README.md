@@ -40,5 +40,6 @@ Run the project from command line
 <pre><br>run `mongod`
 <br>cd to project directory
 <br>node app.js
-<br>Open http://localhost:3000 to view it in the browser.
 </pre>
+<br>Open http://localhost:3000 to view it in the browser.
+
